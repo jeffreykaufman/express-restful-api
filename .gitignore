@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+Icon?
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz

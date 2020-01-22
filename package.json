@@ -1,0 +1,15 @@
+{
+    "name": "@jeffreykaufman/express-restful-api",
+    "version": "1.0.0",
+    "description": "Just an Express RESTful API utility boilerplate.",
+    "keywords": ["express", "restful", "api"],
+    "bugs": "https://github.com/jeffreykaufman/express-restful-api/issues",
+    "license": "MIT",
+    "author": "Jeffrey Kaufman <jeffrey@jeffreyscode.com> (https://www.jeffreyscode.com/)",
+    "main": "lib/express-restful-api.js",
+    "repository": "github:jeffreykaufman/express-restful-api",
+    "dependencies": {
+        "express": "^4.17.1",
+        "helmet": "^3.21.2"
+    }
+}

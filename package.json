@@ -1,5 +1,5 @@
 {
-    "name": "@jeffreykaufman/express-restful-api",
+    "name": "@jkaufman/express-restful-api",
     "version": "1.0.0",
     "description": "Just an Express RESTful API utility boilerplate.",
     "keywords": ["express", "restful", "api"],
